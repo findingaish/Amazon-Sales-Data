@@ -10,18 +10,17 @@ Sales management is essential for businesses to thrive in competitive markets. T
 
 ## Data Source
 
-The dataset used in this project consists of sales data obtained from Amazon. It includes information such as product details, sales volumes, prices, customer ratings, and other relevant metrics. The dataset may be sourced from public repositories or obtained through web scraping techniques, depending on availability and permissions.
-
+The dataset used in this project consists of sales data obtained from Amazon. It includes information such as product details, sales volumes, prices, customer ratings, and other relevant metrics. 
 ## Project Structure
 
 - `README.md`: This file contains an overview of the project, instructions for running the code, and any additional information.
-- `amazon_sales_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis, preprocessing, visualization, and machine learning modeling.
+- `Analyzing Amazon Sales data.ipynb`: Jupyter Notebook containing the Python code for data analysis, preprocessing, visualization, and machine learning modeling.
 - `data/`: Directory containing the Amazon sales dataset used in the analysis.
 - `images/`: Directory containing any images or plots generated during the analysis.
 
 ## Requirements
 
-To run the code in `amazon_sales_analysis.ipynb`, the following Python libraries are required:
+To run the code in `Analyzing Amazon Sales data.ipynb`, the following Python libraries are required:
 
 - Pandas
 - NumPy
@@ -40,7 +39,7 @@ To run the analysis, follow these steps:
 
 1. Clone or download the project repository.
 2. Navigate to the project directory.
-3. Open `amazon_sales_analysis.ipynb` using Jupyter Notebook.
+3. Open `Analyzing Amazon Sales data.ipynb` using Jupyter Notebook.
 4. Execute the cells in the notebook sequentially.
 
 Make sure to update the file paths and dataset source information as necessary.
